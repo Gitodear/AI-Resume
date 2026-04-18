@@ -1,6 +1,6 @@
 # 🚀 AI Resume Analyzer
 
-**Live Demo:** [https://ai-resume.vercel.app](https://ai-resume.vercel.app).
+**Live Demo:** [https://ai-resume.vercel.app](https://ai-resume-ten-plum.vercel.app/).
 
 A premium, full-stack Next.js web application that uses Google's Gemini AI to act as an expert Applicant Tracking System (ATS). It analyzes PDF resumes against job descriptions to provide detailed match scores, identify missing skills, and offer actionable improvement suggestions.
 
